@@ -1,2 +1,2 @@
 # Probability-and-Statistics-Assignments
-Probability and Statistics Assignments and my solutions to them
+CENG 114 Probability and Statistics Assignments and my solutions to them
